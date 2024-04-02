@@ -11,10 +11,10 @@
      - DNS configuration
      - SPF protocol
   - [SNMP Project](https://github.com/safea-space/cisco-packet-tracer) - Safea-Space's Network Management
-  - 
+  - Pentesting
 - <b>I created a SOC and managed it</b>
   - [SOC of Safea-Space](https://github.com/safea-space/SOC-project)
-     - [SIEM used: xxx](https://github.com/safea-space)
+     - [SIEM used: Splunk](https://github.com/safea-space)
      - Firewall Architecture
      - IPS
      - IDS
@@ -23,29 +23,17 @@
   - Wireshark analysis
 
 
-<h2>👨‍💻 My personal roadmap (End goal: DevSecOps professional) </h2>
+<h2>👨‍💻 My personal roadmap </h2>
 
 - <b>Bash Scripting</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/) 
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/)
-  - [FIM (File Integrity Monitor)](https://github.com/)
-- <b>Python Scripting</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+  - [Praciting ](https://github.com/)
 - <b>Advanced Java</b>
   - [Snake Game Project)](https://github.com/)
      - Home made Threadpool (not from library)
-     - xx
 - <b>Pen testing</b>
   - [Burpsuite)](https://github.com/)
   - Nmap
   - Other Tools
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
-  - [Keylogger with Email Capability](https://github.com/)
 
 
 <!--
