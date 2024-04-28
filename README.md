@@ -4,7 +4,7 @@
 <h2> A place where... </h2>
 
 - <b>I created my own network topology (mesh)</b>
-  - [Cisco Packet Tracer Project](https://github.com/safea-space/cisco-packet-tracer) 
+  - [Cisco Packet Tracer Project](https://github.com/safea-space/SafeasBank/blob/main/MainBranch-CorporateBuilding-MeshTopology.PNG) 
      - Safea-Space's Network architecture
      - OSPF & BGP setup on routers
      - Firewall configuration (ACLs)
