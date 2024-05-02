@@ -4,36 +4,40 @@
 <h2> A place where... </h2>
 
 - <b>I created the network topology of a fictional bank: [SafeasBank ](https://github.com/safea-space/SafeasBank)</b>
-  - [Cisco Packet Tracer Project](https://github.com/safea-space/SafeasBank/blob/main/MainBranch-CorporateBuilding-MeshTopology.PNG) 
+  - [Cisco Packet Tracer Project](https://github.com/safea-space/SafeasBank/blob/main/BankProject.pkt)
      - Subnetting
-     - Mesh topology
+     - [Mesh topology](https://github.com/safea-space/SafeasBank/blob/main/MainBranch-CorporateBuilding-MeshTopology.PNG) 
      - OSPF & BGP setup on routers
      - Firewall configuration (ACLs)
      - DNS configuration
-  - [SNMP Project](https://github.com/safea-space/cisco-packet-tracer) - SafeasBank Network Management
+     - [SNMP](https://github.com/safea-space/cisco-packet-tracer)
+      
 - <b>I created a SOC and managed part of it</b>
   - [SOC of Safea-Space](https://github.com/safea-space/SOC-project)
-     - [SIEM used: Splunk](https://github.com/safea-space)
+     - Identifying the SIEM 
+     - [SOAR tools used: Splunk SOAR](https://github.com/safea-space)
      - Firewall Architecture
      - IPS
      - IDS
-  - [Attacks performed: ](https://github.com/safea-space)
+  - Attacks performed: 
      - Expired SSL, Radius
   - Wireshark analysis
+  - Microsoft Windows Defender Lab
+    
 - <b> I perform Pentesting activities weekly</b>
     - BurpSuite
     - Nmap
+      
 - <b> I perform SOC lab activities weekly</b>
     - TryHackMe Lab
+      
 - <b> I learn and apply my Bashscripting knowledge</b>
-    - BashScripting Project 1
-    - 
+
 <h2>👨‍💻 Other projects </h2>
 
 - <b>Advanced Java</b>
-  - [Snake Game Project)](https://github.com/)
+  - [Snake Game Project](https://github.com/)
      - Home made Threadpool (not from library)
-
 
 <!--
 
