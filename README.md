@@ -3,7 +3,7 @@
 
 <h2> A place where... </h2>
 
-- <b>I created the network topology of a fictional bank</b>
+- <b>I created the network topology of a fictional bank: [SafeasBank ](https://github.com/safea-space/SafeasBank)</b>
   - [Cisco Packet Tracer Project](https://github.com/safea-space/SafeasBank/blob/main/MainBranch-CorporateBuilding-MeshTopology.PNG) 
      - Subnetting
      - Mesh topology
