@@ -1,18 +1,17 @@
-<h1>Hi, I am Sofia, welcome aboard Safea-Space! (EDITING...) <br/> 
+<h1>Hi, I am Sofia, welcome aboard Safea-Space! <br/> 
   <h2>>> Safea-Space - A place designed for my Cybersecurity Projects.
 
 <h2> A place where... </h2>
 
-- <b>I created my own network topology (mesh)</b>
+- <b>I created the network topology of a fictional bank</b>
   - [Cisco Packet Tracer Project](https://github.com/safea-space/SafeasBank/blob/main/MainBranch-CorporateBuilding-MeshTopology.PNG) 
-     - Safea-Space's Network architecture
+     - Subnetting
+     - Mesh topology
      - OSPF & BGP setup on routers
      - Firewall configuration (ACLs)
      - DNS configuration
-     - SPF protocol
-  - [SNMP Project](https://github.com/safea-space/cisco-packet-tracer) - Safea-Space's Network Management
-  - Pentesting
-- <b>I created a SOC and managed it</b>
+  - [SNMP Project](https://github.com/safea-space/cisco-packet-tracer) - SafeasBank Network Management
+- <b>I created a SOC and managed part of it</b>
   - [SOC of Safea-Space](https://github.com/safea-space/SOC-project)
      - [SIEM used: Splunk](https://github.com/safea-space)
      - Firewall Architecture
@@ -21,19 +20,19 @@
   - [Attacks performed: ](https://github.com/safea-space)
      - Expired SSL, Radius
   - Wireshark analysis
+- <b> I perform Pentesting activities weekly</b>
+    - BurpSuite
+    - Nmap
+- <b> I perform SOC lab activities weekly</b>
+    - TryHackMe Lab
+- <b> I learn and apply my Bashscripting knowledge</b>
+    - BashScripting Project 1
+    - 
+<h2>👨‍💻 Other projects </h2>
 
-
-<h2>👨‍💻 My personal roadmap </h2>
-
-- <b>Bash Scripting</b>
-  - [Praciting ](https://github.com/)
 - <b>Advanced Java</b>
   - [Snake Game Project)](https://github.com/)
      - Home made Threadpool (not from library)
-- <b>Pen testing</b>
-  - [Burpsuite)](https://github.com/)
-  - Nmap
-  - Other Tools
 
 
 <!--
