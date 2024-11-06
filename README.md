@@ -1,5 +1,5 @@
 <h1>Hi, I am Sofia, welcome aboard Safea-Space! <br/> 
-  <h2>>> Safea-Space - A place designed for my Cybersecurity Projects.
+  <h2>>> Safea-Space - A place designed for my DevSecOps & Cybersecurity Projects.
 
 <h2> A place where... </h2>
 
@@ -11,32 +11,33 @@
      - Firewall configuration (ACLs)
      - DNS configuration
      - [SNMP](https://github.com/safea-space/cisco-packet-tracer)
-      
-- <b>I created a SOC and managed part of it</b>
+
+- <b>DEVOPs Projects done on EC2 and VM to be recreated and inserted in here soon</b>
+    
+- <b> Future SOC management project</b>
   - [SOC of Safea-Space](https://github.com/safea-space/SOC-project)
      - Identifying the SIEM 
      - [SOAR tools used: Splunk SOAR](https://github.com/safea-space)
      - Firewall Architecture
      - IPS
      - IDS
-  - Attacks performed: 
+  - Attacks to be performed: 
      - Expired SSL, Radius
   - Wireshark analysis
   - Microsoft Windows Defender Lab
     
-- <b> I perform Pentesting activities weekly</b>
+- <b> Weekly Pentesting activities</b>
     - BurpSuite
     - Nmap
       
-- <b> I perform SOC lab activities weekly</b>
+- <b> Weekly SOC lab activities</b>
     - TryHackMe Lab
-      
-- <b> I learn and apply my Bashscripting knowledge</b>
+
 
 <h2>👨‍💻 Other projects </h2>
 
 - <b>Advanced Java</b>
-  - [Snake Game Project](https://github.com/)
+  - [Snake Game Project](https://github.com/1santo/ProgrammingProject)
      - Home made Threadpool (not from library)
 
 <!--
